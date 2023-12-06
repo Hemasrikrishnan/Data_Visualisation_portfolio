@@ -1,4 +1,4 @@
 # Data Visualization Portfolio
-Repository to access all the projects created as part of my Master's program in Ontario Tech University.
+Repository to access all the projects created as part of my Masters program in Ontario Tech University.
 
 
